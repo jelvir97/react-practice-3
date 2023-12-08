@@ -1,0 +1,59 @@
+.EightBall{
+    border: 2px solid;
+    border-radius: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+.EightBall-Answer{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.EightBall-gCount{
+    position: absolute;
+    left: 210px;
+}
+
+.EightBall-yCount{
+    position: absolute;
+    left: 275px;
+}
+
+.EightBall-rCount{
+    position: absolute;
+    left: 340px;
+}
+
+.EightBall-Reset{
+    position: absolute;
+    top: 100px;
+    left: 275px;
+}
+
+.ready{
+    background-color: black;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.goldenrod{
+    background-color: goldenrod;
+}
+
+
+  
